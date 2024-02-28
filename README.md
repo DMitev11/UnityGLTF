@@ -65,7 +65,7 @@ You can install this package from git, compatible with UPM (Unity Package Manage
 3. Select <kbd>Add Package from git URL</kbd>
 4. Paste 
    ```
-   https://github.com/prefrontalcortex/UnityGLTF.git?path=/UnityGLTF/Assets/UnityGLTF
+   https://github.com/DMitev11/UnityGLTF.git?path=/UnityGLTF/Assets/UnityGLTF
    ```
 4. Click <kbd>Add</kbd>.  
    
